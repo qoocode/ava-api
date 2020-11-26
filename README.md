@@ -1,2 +1,0 @@
-# ava-api
-# backpack-test
